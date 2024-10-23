@@ -1,1 +1,2 @@
-# ClientSideProgrammingAssignment2
+# What Is This?
+This is a series of questions originally completed for my Client Side Programming class. Question 8 actually has backend stuff, but at the time I didn't really understand it completely and it uses XAMPP, so there's a lot to set up to get it to work. The first 7 questions more show off what this is intended to show off, my skills with JS.
