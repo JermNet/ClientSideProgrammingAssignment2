@@ -14,7 +14,7 @@ function getWeather() {
             const weatherInfo = `
                 <h2>Weather in ${data.name}</h2>
                 <p>Description: ${data.weather[0].description}</p>
-                <p>Temperature: ${data.main.temp}°C</p>
+                <p>Temperature: ${data.main.temp/10}°C</p>
                 <p>Humidity: ${data.main.humidity}%</p>
             `;
             document.getElementById('weather').innerHTML = weatherInfo;
